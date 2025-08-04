@@ -8,7 +8,11 @@
 - XGBoost Regressor (tree_method='hist', grow_policy='lossguide')
 - RandomizedSearchCV로 하이퍼파라미터 튜닝
 - OOF Cross-validation (KFold, n=5)
-- 최종 **OOF RMSE**: `약 0.2421`
+
+> 🥇 **최종 순위: 4등 / 전체 참가자 수**  
+> 🧠 XGBoost + Feature Engineering 기반 모델  
+> 📉 RMSE: 0.2421 (Cross-validation 기준)
+
 
 ## 🧪 주요 전처리 및 모델링 전략
 
